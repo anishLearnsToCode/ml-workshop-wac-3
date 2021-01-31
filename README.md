@@ -89,12 +89,12 @@ You can stalk your instructor on
 - [Django: Web Development on Python](https://www.djangoproject.com/)
 - [Falcon: Minimalist Web Framework](https://falcon.readthedocs.io/en/stable/)
 
-## Python Books 📕
+## 📕 Python Books
 - [Python Crash Course](https://github.com/anishLearnsToCode/books/blob/master/python/python-crash-course.pdf)
 - [Python in a Nutshell](https://github.com/anishLearnsToCode/books/blob/master/python/python-in-a-nutshell-3e.pdf)
 - [Programming Python](https://github.com/anishLearnsToCode/books/blob/master/python/programming-python-4e.pdf)
 
-## Machine Learning Books
+## 📕 Machine Learning Books
 - [Python For Data Analysis](https://github.com/anishLearnsToCode/books/blob/master/python/python-for-data-analysis-2e.pdf)
 - [Deep Learning With Python ~Francois Chollet](https://github.com/anishLearnsToCode/books/blob/master/machine-learning/deep-learning-with-python-francois-chollet.pdf)
 
