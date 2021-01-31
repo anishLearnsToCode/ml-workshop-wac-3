@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+sklearn
+keras
+tensorflow
+instaloader
+opencv-python
+nltk
