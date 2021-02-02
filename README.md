@@ -10,7 +10,7 @@ __~Anish Sachdeva__
     Workshop Timings: 5:00 PM - 8:00 PM (17 - 20) <br>
 </details>
 
-📽 [Class Video Recordings (Coming Soon)]() |
+📽 [Class Video Recordings](https://photos.app.goo.gl/JdJ7JkdUU92518GQ9) |
 🌊 [Course Flow](course-flow.md) |
 ✒ [MS Exam Sample 1](assets/python-attempt-1-solutions.pdf) |
 ✒ [MS Exam Sample 2](assets/python-attempt-1-solutions.pdf) |
@@ -25,8 +25,8 @@ __~Anish Sachdeva__
 1. [Day 4](#4%EF%B8%8F⃣-day-4)
 1. [Day 5](#5%EF%B8%8F⃣-day-5)
 1. [Further Reading](#further-reading)
-1. [Python Books](#python-books-)
-1. [Machine Learning Books](#machine-learning-books)
+1. [Python Books](#-python-books)
+1. [Machine Learning Books](#-machine-learning-books)
 1. [Future Path??](#future-scope-and-path)
 
 ## Introduction
@@ -51,6 +51,20 @@ You can stalk your instructor on
 [Instagram](https://www.instagram.com/anish.sachdeva_/).
 
 ## 1️⃣ Day 1
+- [Hello World](day_1/hello_world.py)
+- [Comments](day_1/comments.py)
+- [Strings](day_1/strings.py)
+- [Data Types](day_1/data_types.py)
+- [Variable Naming Rules](day_1/variable_rules.py)
+- [Variable Naming Conventions](day_1/variable_naming_conventions.py)
+- [Taking User Input](day_1/user_input.py)
+- [Taking Integer Input](day_1/taking_int_input.py)
+- [Arithmetic Operators](day_1/arithmetic_operators.py)
+- [Boolean Operators](day_1/boolean_operators.py)
+- [If Else Block](day_1/if_else_blocks.py)
+- [Determining whether number is Odd or Even](day_1/odd_even.py)
+- [Ternary Expression](day_1/ternary_expression.py)
+- [Hackerrank If Else](day_1/hackerrank_if_else.py)
 
 ## 2️⃣ Day 2
 - [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
