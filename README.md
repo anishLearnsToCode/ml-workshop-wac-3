@@ -6,7 +6,7 @@ __~Anish Sachdeva__
 
 <details>
     <summary><b>Workshop Timings</b></summary>
-    Workshop Dates: 1st - 5th February 2021 <br>
+    Workshop Dates: 2nd - 6th February 2021 <br>
     Workshop Timings: 5:00 PM - 8:00 PM (17 - 20) <br>
 </details>
 
@@ -121,7 +121,7 @@ You can views solutions to problems in Python (or any of your preferred programm
 and you are most welcome to contribute to the repository solutions to unsolved problems 
 or solutions in more languages (aka Python). 
 
-You can also try questions on [Leet Code](https://leetcode.com/) and have a look at the 
+You can also try questions on [LeetCode](https://leetcode.com/) and have a look at the 
 [solutions repository](https://github.com/anishLearnsToCode/leetcode-algorithms)
 and are most welcome to contribute just as above 😀
 
