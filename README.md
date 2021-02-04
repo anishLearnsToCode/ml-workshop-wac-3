@@ -8,6 +8,8 @@ __~Anish Sachdeva__
     <summary><b>Workshop Timings</b></summary>
     Workshop Dates: 2nd - 6th February 2021 <br>
     Workshop Timings: 5:00 PM - 8:00 PM (17 - 20) <br>
+    Workshop Timing (5th February 2021): 6:00 PM - 9:00 PM (18 - 21) <br>
+    Workshop Timings (Saturday): 11:00 AM - 2:00 PM (11 - 14)
 </details>
 
 📽 [Class Video Recordings](https://photos.app.goo.gl/JdJ7JkdUU92518GQ9) |
