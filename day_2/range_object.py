@@ -13,7 +13,7 @@ step = 1
 stop --> we have to define
 """
 
-r = range(10, 20, 3)
+r = range(0, 10)
 
 print(r.start)
 print(r.stop)

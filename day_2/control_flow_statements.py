@@ -1,8 +1,8 @@
 # break
-# for i in range(10):
-#     print(i)
-#     if i == 4:
-#         break
+for i in range(10):
+    print(i)
+    if i == 4:
+        break
 
 # for i in range(1, 5):
 #
@@ -23,22 +23,22 @@
 #         print(i)
 
 
-i = 1
-while i < 100:
-    j = 1
-
-    while j < 5:
-        if j % i == 0:
-            break
-        print(i + j, end=' ')
-        j += 1
-
-    i *= (j + 1)
-    print()
-
-    if i % 2 == 0:
-        i += 1
-        continue
+# i = 1
+# while i < 100:
+#     j = 1
+#
+#     while j < 5:
+#         if j % i == 0:
+#             break
+#         print(i + j, end=' ')
+#         j += 1
+#
+#     i *= (j + 1)
+#     print()
+#
+#     if i % 2 == 0:
+#         i += 1
+#         continue
 
 """
 i = 475
