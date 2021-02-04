@@ -91,8 +91,8 @@ You can stalk your instructor on
 - [Iterating Over Lists](day_3/iterating_lists.py)
 - [Complex Lists](day_3/complex_lists.py)
 - [Taking List Input](day_3/lists_input.py)
-- [`map` Operator](day_3/map_operator.py)
-- [Reverse of an List](day_3/reverse_array.py)
+- [The `map` Operator](day_3/map_operator.py)
+- [Reverse of a List](day_3/reverse_array.py)
 
 ## 4️⃣ Day 4
 - [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
