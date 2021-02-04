@@ -82,9 +82,6 @@ You can stalk your instructor on
 - [Factorial (For Loop)](day_2/factorial_for.py)
 - [Control Flow Statements](day_2/control_flow_statements.py)
 - [Functions](day_2/functions.py)
-- [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
-- [Matplotlib Tutorial (Jupyter Notebook)](notebooks/matplotlib/matplotlib-tutorial.ipynb)
-- [Drawing Multiple Plots](day_2/multiple_plots.py)
 
 ## 3️⃣ Day 3
 - [Sum N Natural Numbers](day_3/sum_n_natural_numbers.py)
@@ -96,26 +93,29 @@ You can stalk your instructor on
 - [Taking List Input](day_3/lists_input.py)
 - [`map` Operator](day_3/map_operator.py)
 - [Reverse of an List](day_3/reverse_array.py)
-- [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
-- [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
-- [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
 
 ## 4️⃣ Day 4
+- [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
+- [Matplotlib Tutorial (Jupyter Notebook)](notebooks/matplotlib/matplotlib-tutorial.ipynb)
+- [Drawing Multiple Plots](day_2/multiple_plots.py)
+- [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
+- [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
+
+## 5️⃣ Day 5
+- [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
 - [Vectorization (Jupyter Notebook)](notebooks/vectorization/Vectorization.ipynb)
-- [Decision Trees (Jupyter Notebook)](notebooks/decision-trees/decision-trees-tutorial.ipynb)
-- [Kaggle Titanic Solution (Jupyter Notebook)](notebooks/kaggle-titanic/titanic-solution.ipynb)
 - [Linear Regression (Jupyter Notebook)](notebooks/linear-regression/linear-regression.ipynb)
 - [Multi Linear Regression (Jupyter Notebook)](notebooks/multi-linear-regression/multi-linear-regression.ipynb)
 - [Logistic Regression (Jupyter Notebook)](notebooks/logistic-regression/Logistic_Regression.ipynb)
 
-## 5️⃣ Day 5
+## Further Reading
 - [Numpy Basics For Deep Learning (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-basics-for-deep-learning.ipynb)
 - [Logistic Regression As A Neural Network (Jupyter Notebook)](notebooks/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Planar Classification With 1 Hidden Layer (Jupyter Notebook)](notebooks/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
 - [Building Neural Network Step By Step (Jupyter Notebook)](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 - [Deep Neural Network Application (Building a Neural Network Classifier) (Jupyter Notebook)](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-
-## Further Reading
+- [Decision Trees (Jupyter Notebook)](notebooks/decision-trees/decision-trees-tutorial.ipynb)
+- [Kaggle Titanic Solution (Jupyter Notebook)](notebooks/kaggle-titanic/titanic-solution.ipynb)
 - [w3 School Python](https://www.w3schools.com/python/)
 - [HackerRank python Domain](https://www.hackerrank.com/domains/python)
 - [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
