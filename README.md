@@ -95,6 +95,14 @@ You can stalk your instructor on
 - [Reverse of a List](day_3/reverse_array.py)
 
 ## 4️⃣ Day 4
+- [List Comprehension](day_4/list_comprehension.py)
+- [Dictionary](day_4/dictionary.py)
+- [Complex Dictionary](day_4/complex_dict.py)
+- [Frequency Counter](day_4/frequency_counter.py)
+- [Iterating over DDictionary](day_4/dict_iterate.py)
+- [The `math` Package](day_4/math_package.py)
+- [The `random` Package](day_4/random_package.py)
+- [The `numpy` Package](day_4/numpy_import.py)
 - [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
 - [Matplotlib Tutorial (Jupyter Notebook)](notebooks/matplotlib/matplotlib-tutorial.ipynb)
 - [Drawing Multiple Plots](day_2/multiple_plots.py)
